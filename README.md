@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 About Me
 
-<!--
-**jan-jo/jan-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate from Pokhara University passionate about building data pipelines, automating workflows, and working with cloud infrastructure. I love turning raw data into actionable insights and am actively seeking a Software / Data Engineering Traineeship where I can learn, contribute, and grow.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- ETL pipelines and cloud-based data workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Apache Airflow
+- Databricks
+- AWS
+
+## 💬 Ask me about
+- Python
+- SQL
+- PySpark
+- ETL pipelines
+
+## 📫 Contact
+- Email: jjnkjoshi@gmail.com
+- Location: kathmandu, Nepal
