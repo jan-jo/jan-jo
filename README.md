@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-I'm a Computer Engineering graduate from Pokhara University passionate about building data pipelines, automating workflows, and working with cloud infrastructure. I love turning raw data into actionable insights and am actively seeking a Software / Data Engineering Traineeship where I can learn, contribute, and grow.
+I'm a Computer Engineering graduate from Pokhara University passionate about building data pipelines, automating workflows, and working with cloud infrastructure. I tryturning raw data into actionable insights and am actively seeking a Software / Data Engineering roles where I can learn, contribute, and grow.
 
 ## 🔭 Currently working on
 - ETL pipelines and cloud-based data workflows
